@@ -1,0 +1,1285 @@
+{
+  "created_at": "Tue Nov 25 21:36:09 +0000 2014",
+  "id": 537359109054804000,
+  "id_str": "537359109054803968",
+  "text": "@rihanna collaborate with @ladygaga",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 537358763783495700,
+  "in_reply_to_status_id_str": "537358763783495680",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 17,
+  "favorite_count": 39,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      },
+       {
+        "screen_name": "ladygaga",
+        "name": "Lady Gaga",
+        "id": 14230524,
+        "id_str": "14230524",
+        "indices":  [
+          26,
+          35
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Fri Sep 20 19:23:33 +0000 2013",
+  "id": 381136565713391600,
+  "id_str": "381136565713391616",
+  "text": "@rihanna YAS you better stan",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 381135514847678460,
+  "in_reply_to_status_id_str": "381135514847678464",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Mon Aug 26 04:42:53 +0000 2013",
+  "id": 371855244348895200,
+  "id_str": "371855244348895232",
+  "text": "@rihanna what about lady gaga's performance?",
+  "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 371854677077667840,
+  "in_reply_to_status_id_str": "371854677077667840",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 2,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Fri Sep 23 14:53:06 +0000 2011",
+  "id": 117250140292661250,
+  "id_str": "117250140292661248",
+  "text": "@rihanna have been listening to #WeFoundLove since it's out! amazing!",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [
+       {
+        "text": "WeFoundLove",
+        "indices":  [
+          32,
+          44
+        ]
+      }
+    ],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Thu Sep 22 13:42:54 +0000 2011",
+  "id": 116870086710665220,
+  "id_str": "116870086710665219",
+  "text": "@rihanna listening to We Found Love right now! great job!",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Mon Apr 25 18:21:11 +0000 2011",
+  "id": 62581938405380100,
+  "id_str": "62581938405380096",
+  "text": "@rihanna robyn what do you think of gaga's new single judas??",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 62579547798913020,
+  "in_reply_to_status_id_str": "62579547798913024",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Sat Apr 09 17:34:57 +0000 2011",
+  "id": 56772098315657220,
+  "id_str": "56772098315657217",
+  "text": "@rihanna have you been thinking of recording a song with @ladygaga? would be the best thing ever!",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 56391839284068350,
+  "in_reply_to_status_id_str": "56391839284068352",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162445,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      },
+       {
+        "screen_name": "ladygaga",
+        "name": "Lady Gaga",
+        "id": 14230524,
+        "id_str": "14230524",
+        "indices":  [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Sat Apr 02 09:53:15 +0000 2011",
+  "id": 54119190667341820,
+  "id_str": "54119190667341824",
+  "text": "@rihanna you rih-eally need to collaborate with @ladygaga, i swear would be one of the best songs EVER! :D",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162445,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      },
+       {
+        "screen_name": "ladygaga",
+        "name": "Lady Gaga",
+        "id": 14230524,
+        "id_str": "14230524",
+        "indices":  [
+          48,
+          57
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Sat Apr 02 09:43:00 +0000 2011",
+  "id": 54116614391607300,
+  "id_str": "54116614391607296",
+  "text": "@rihanna PLEASE COLLABORATE WITH @LADYGAGA :D ♥",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 53963628122083330,
+  "in_reply_to_status_id_str": "53963628122083328",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      },
+       {
+        "screen_name": "ladygaga",
+        "name": "Lady Gaga",
+        "id": 14230524,
+        "id_str": "14230524",
+        "indices":  [
+          33,
+          42
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Thu Feb 10 16:25:56 +0000 2011",
+  "id": 35736232470253570,
+  "id_str": "35736232470253569",
+  "text": "@rihanna are you excited for @ladygaga's Born This Way??? BornThisWayFriday",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 35736000571383810,
+  "in_reply_to_status_id_str": "35736000571383808",
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162444,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      },
+       {
+        "screen_name": "ladygaga",
+        "name": "Lady Gaga",
+        "id": 14230524,
+        "id_str": "14230524",
+        "indices":  [
+          29,
+          38
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Sun Jan 09 00:12:20 +0000 2011",
+  "id": 23894804635062270,
+  "id_str": "23894804635062272",
+  "text": "@rihanna how are you?? :) #BornThisWay",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162445,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [
+       {
+        "text": "BornThisWay",
+        "indices":  [
+          26,
+          38
+        ]
+      }
+    ],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+
+{
+  "created_at": "Sat Dec 18 22:25:44 +0000 2010",
+  "id": 16257835956436992,
+  "id_str": "16257835956436992",
+  "text": "@rihanna how are you? being #loud? love u x",
+  "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 79293791,
+  "in_reply_to_user_id_str": "79293791",
+  "in_reply_to_screen_name": "rihanna",
+  "user":  {
+    "id": 53964590,
+    "id_str": "53964590",
+    "name": "Lady Gaga",
+    "screen_name": "gagamonster96",
+    "location": "artRAVE 11/2",
+    "description": "In 2016 Lady Gaga has performed at the GRAMMYs, Super Bowl 50, won a Golden Globe for AHS: Hotel and is nominated for an Oscar. @ladygaga has noticed me 35x.",
+    "url": "https://t.co/Pdhb5CQDau",
+    "entities":  {
+      "url":  {
+        "urls":  [
+           {
+            "url": "https://t.co/Pdhb5CQDau",
+            "expanded_url": "http://bit.ly/GM96Tumblr",
+            "display_url": "bit.ly/GM96Tumblr",
+            "indices":  [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description":  {
+        "urls":  []
+      }
+    },
+    "protected": false,
+    "followers_count": 162446,
+    "friends_count": 885,
+    "listed_count": 721,
+    "created_at": "Sun Jul 05 18:06:55 +0000 2009",
+    "favourites_count": 22796,
+    "utc_offset": 3600,
+    "time_zone": "Vienna",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 71199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593499755239485440/nTqDxhc2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700048499446906880/PpAREK69_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53964590/1455732305",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "E00000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities":  {
+    "hashtags":  [
+       {
+        "text": "loud",
+        "indices":  [
+          28,
+          33
+        ]
+      }
+    ],
+    "symbols":  [],
+    "user_mentions":  [
+       {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices":  [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls":  []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
