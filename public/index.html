@@ -461,7 +461,7 @@ var div = d3.select("#viz")
             "</a>"  )     
             .style("left", (d3.event.pageX-200) + "px")             
             .style("top", (d3.event.pageY -200) + "px");
-        $( ".tooltip" ).css('z-index', 10);
+                    $( ".tooltip" ).css('z-index', 10);
       helperText.text(d.symbol.toUpperCase() + " "+legendFormat(new Date(d.date)) + '; ~Price: ' + d.price + 
         "; ~Top 3 Topics: " + d.topic1 + ", " + d.topic2 + ", "+ d.topic3);
       priceTooltip.attr('transform', 'translate(' + x(d.date) + ',' + d3.mouse(this)[1] + ')');
