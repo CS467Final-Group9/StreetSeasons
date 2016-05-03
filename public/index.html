@@ -88,6 +88,7 @@
             <option value = "aapl_msft.csv">Apple vs Microsoft</option>
             <option value = "msft_aig.csv">AIG vs Microsoft</option>
             <option value = "appl_aig_msft.csv">All</option>
+            <option value = "appl_tesla_msft.csv">All(without AIG)</option>
 
 
           </select>
@@ -460,6 +461,10 @@ var div = d3.select("#viz")
       var d1 = localData[i];
       var d = x0 - d0.date > d1.date - x0 ? d1 : d0;
 
+      console.log(d.date.getFullYear())
+      yearAfter = parseInt(d.date.getFullYear())
+      yearAfter += 1
+
       div.transition()
             .duration(500)    
             .style("opacity", 0);
@@ -473,7 +478,7 @@ var div = d3.select("#viz")
                          // closing </a> tag
             "<br/>"  +"Closing Price : "+ d.price +
             "<br/>"  + "Top 3 Topics: " + d.topic1 + ", " + d.topic2 + ", "+ d.topic3+
-            "<br/>"  + '<a href= "http://google.com">' + // The first <a> tag
+            "<br/>"  + '<a href= "https://www.google.com/search?q='+d.symbol+'+stock&biw=1280&bih=729&source=lnt&tbs=cdr%3A1%2Ccd_min%3A5%2F1%2F'+ d.date.getFullYear()+'%2Ccd_max%3A5%2F1%2F'+ yearAfter +'&tbm=nws"'+'>' + // The first <a> tag
             "See the corresponding news"+
             "</a>"  )     
             .style("left", (d3.event.pageX-200) + "px")             
@@ -484,6 +489,8 @@ var div = d3.select("#viz")
       priceTooltip.attr('transform', 'translate(' + x(d.date) + ',' + d3.mouse(this)[1] + ')');
       //averageTooltip.attr('transform', 'translate(' + x(d.date) + ',' + y(d.average) + ')');
     }
+
+    https://www.google.com/search?q=appl+stock&biw=1280&bih=729&source=lnt&tbs=cdr%3A1%2Ccd_min%3A5%2F1%2F2008%2Ccd_max%3A5%2F1%2F2009&tbm=nws
 
     function brushed() {
       var ext = brush.extent();
